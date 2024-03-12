@@ -207,5 +207,9 @@ jekyll_compose:
   default_front_matter:
     drafts:
       math: true
+      tags: 默认标签
+      category: 默认分类
     posts:
       math: true
+      tags: 默认标签
+      category: 默认分类
